@@ -1,0 +1,2 @@
+num_journals,embedding_dim,model_file,embeddings_file
+66,384,journal_gcn_model.pt,journal_embeddings.csv
